@@ -102,6 +102,3 @@ In Claude Code, run `/mcp` and check that `ynab` shows as connected.
 - [Bun](https://bun.sh) runtime
 - YNAB account with API access
 
-## License
-
-MIT
