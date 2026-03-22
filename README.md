@@ -5,7 +5,7 @@
 <img width="95" alt="MCP" src="https://github.com/user-attachments/assets/abed1a04-d69b-4ab4-a490-d606064df72d" />
 <img style="justify-content:center;text-align: center;width: 210px; height: auto;" width="3840" height="969" alt="image" src="https://github.com/user-attachments/assets/ec10528b-300b-4491-965b-a11ea4a1a2c5" />
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) <img width="80" height="28" alt="YNAB" src="https://github.com/user-attachments/assets/c7300ced-3496-4604-ad5d-22cd60f73276" />  ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 </div>
 
